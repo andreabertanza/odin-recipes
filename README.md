@@ -11,3 +11,9 @@ Completed the first draft of "creamy-pesto-shrimp.html".
 
 17/04/26 14:51
 Added 2 new recipes in "recipes" folder: italian-sausage-tortellini.html & shortcut-smothered-chicken
+
+18/04/26 14:36
+Added a "styles" folder with a styles.css file.
+Modified the positions of titles in all the pages.
+Added divs for: description, ingredients and steps.
+Added styles to all the new divs.

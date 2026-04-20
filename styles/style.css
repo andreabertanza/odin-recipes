@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+#recipe-list {
+    text-align: center;
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.description {
+    border: 1px solid black;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.description h2 {
+    margin-bottom: 5px;
+}
+
+.description p {
+    padding-left: 10px;
+}
+
+.ingredients {
+    border: 1px solid black;
+    margin-top: 15px;   
+}
+
+.ingredients h3 {
+    text-align: center;
+}
+
+.steps {
+    border: 1px solid black;
+    margin-top: 15px;  
+}
+
+.steps h3 {
+    text-align: center;
+}
